@@ -1,7 +1,7 @@
 ### Description
 Anything relevant to be mentioned about the PR. You can explain something about the changes made, include screenshots, etc.
 
-![I'm a hacker](https://media4.giphy.com/media/YQitE4YNQNahy/giphy-downsized-large.gif)
+![I'm a hacker](hacker.gif)
 
 ### New features
 - [[PB-7993](https://prayinc.atlassian.net/browse/PB-7993)] Verification Code phone number does not rate limit the amount of sms messages.
