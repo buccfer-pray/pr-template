@@ -1,3 +1,5 @@
+> NOTE: Any section that does not apply to your PR can be omitted.
+
 ### Description
 Anything relevant to be mentioned about the PR. You can explain something about the changes made, include screenshots, etc.
 
