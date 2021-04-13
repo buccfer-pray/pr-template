@@ -12,6 +12,9 @@ Anything relevant to be mentioned about the PR. You can explain something about 
 ### Bug fixes
 - [[PB-242](https://prayinc.atlassian.net/browse/PB-242)] Comment and post reactions not adding in created_timestamp in DB.
 
+### Scripts
+- Added script to backfill users.
+
 ### Updated dependencies
 - Added `"express-rate-limit": "^5.2.6"` to rate limit requests in critical endpoints.
 - Removed `"crypto": "0.0.3"` since we are using Node's native crypto implementation.
